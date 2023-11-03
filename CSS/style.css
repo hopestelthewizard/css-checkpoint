@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+li {
+    display: inline;
+}
+body {
+    background-color: #ffefd5;
+    line-height: 1.5;
+    font-size: medium;
+}
+
+h1 {
+    font-family: roboto;
+    text-align: center;
+    margin: 5%;
+}
