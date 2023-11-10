@@ -60,6 +60,12 @@ body {
 table, th, td {
     border: 1px solid blue;
     width: 600px;
+    align-items: center;
+    
+}
+table {
+    text-align: center;
+    margin-left: 25%;
 }
 td{
     
